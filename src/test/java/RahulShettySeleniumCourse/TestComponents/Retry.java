@@ -2,7 +2,7 @@ package RahulShettySeleniumCourse.TestComponents;
 
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
-
+//test
 public class Retry implements IRetryAnalyzer {
 	
 	int count = 0;
